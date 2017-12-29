@@ -1,0 +1,18 @@
+<!--start.wxml-->
+
+<view class="t"> 
+<title>访问记录Recorder</title>
+</view>
+
+
+<view class="tt">
+    <text class="ttt">时间点</text>
+    <text>{{at}}</text>
+</view>
+<view class="tt">
+    <text class="ttt">人数</text>
+    <text>{{value}}</text>
+</view>
+<button class="btn1" bindtap="RequestData" value="Button">刷新数据</button>
+<button class="btn2" bindtap="getDataFromOneNet">
+查看mcookie即时数据图</button>

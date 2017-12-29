@@ -1,0 +1,7 @@
+<view class="t"> 
+<title>Mookie即时数据图</title>
+</view>
+<canvas class = "canvas" id="chart1"
+canvas-id="pnumber"></canvas>
+<button class="btn1" bindtap="onLoad1">
+返回</button>

@@ -1,0 +1,55 @@
+/* start.wxss */
+
+.t {
+  padding: 20px 0;
+  font-size: 40px;
+  text-align: center;
+  height: 5%;
+  font-weight: bold;
+  text-shadow: #ffc125 2px 2px 10px;
+}
+
+.ttt {
+  font-size: 28px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.tt {
+  font-size: 24px;
+  margin: auto;
+  width: 50%;
+  border: 1px solid #000;
+  padding: 30px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  -webkit-box-shadow: #666 0px 0px 10px;
+  -moz-box-shadow: #666 0px 0px 10px;
+  box-shadow: #666 0px 0px 10px;
+}
+
+.btn1 {
+  border-width: medium;
+  margin: auto;
+  width: 65%;
+  top: 80rpx;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  -webkit-box-shadow: #666 0px 0px 10px;
+  -moz-box-shadow: #666 0px 0px 10px;
+  box-shadow: #666 0px 0px 10px;
+}
+.btn2 {
+  border-width: medium;
+  margin: auto;
+  width: 65%;
+  top: 90rpx;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  -webkit-box-shadow: #666 0px 0px 10px;
+  -moz-box-shadow: #666 0px 0px 10px;
+  box-shadow: #666 0px 0px 10px;
+}

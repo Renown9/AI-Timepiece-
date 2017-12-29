@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/start/start",
+    "pages/wifi_station/tianqi/tianqi"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "基于红外技术的多功能时钟",
+    "navigationBarTextStyle":"black",
+    "backgroundColor":"#7cb5ec"
+  }
+}
